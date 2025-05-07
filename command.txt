@@ -1,0 +1,5 @@
+npm install express mongoose cors
+npm install axios
+
+cd backend
+node server.js
